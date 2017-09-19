@@ -1,0 +1,10 @@
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/services/ServicesException.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/controllers/PatientsController.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/jpa/sample/model/Paciente.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/services/PatientServices.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/jpa/sample/model/Consulta.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/jpa/sample/model/PacienteId.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/SpringDataRestApiApplication.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/services/PatientServicesImpl.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/services/PatientServicesStub.java
+/home/carlos/Escritorio/Laboratorios2017-2/LaboratorioCarlosMrera5/Spring-Data-JPA/src/main/java/edu/eci/cosw/samples/repository/PatientsRepository.java
